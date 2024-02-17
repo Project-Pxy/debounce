@@ -1,7 +1,7 @@
 debounce
 ========
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/zmwangx/debounce.svg)](https://pkg.go.dev/github.com/zmwangx/debounce)
+[![Go Reference](https://pkg.go.dev/badge/github.com/Project-Pxy/debounce.svg)](https://pkg.go.dev/github.com/Project-Pxy/debounce)
 
 Package debounce is complete and thread-safe port of [lodash's debounce] for Go, with support for leading/trailing/both edges, max wait, arguments, return values, flush, cancel, etc. See this [CSS-Tricks article] for detailed explanation of debouncing behavior.
 

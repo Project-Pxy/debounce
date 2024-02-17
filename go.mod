@@ -1,4 +1,4 @@
-module github.com/zmwangx/debounce
+module github.com/Project-Pxy/debounce
 
 go 1.20
 

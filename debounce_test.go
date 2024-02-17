@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
+	. "github.com/Project-Pxy/debounce"
 	. "github.com/smartystreets/goconvey/convey"
-	. "github.com/zmwangx/debounce"
 )
 
 const ms = time.Millisecond

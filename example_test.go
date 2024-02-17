@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/zmwangx/debounce"
+	"github.com/Project-Pxy/debounce"
 )
 
 func ExampleDebounce() {
